@@ -1,0 +1,13 @@
+Demo
+Desktop
+Documents
+Downloads
+file1.php
+file3.php
+garbage
+Music
+Pictures
+Public
+snap
+Templates
+Videos
